@@ -5,9 +5,10 @@ Here is a simple and easy-to-understand **README.md** file:
 # 🚀 Drone Delivery System  
 
 ## 📌 Overview  
-This project assigns orders to drones and calculates the best path using the **A* pathfinding algorithm**. The results are displayed using **Matplotlib**.  
-<img src="https://raw.githubusercontent.com/siranjeevi2001/propblemSolving-SkyGo-Drone-Delivery/main/src/case2.png" width="600">
-<img src="https://raw.githubusercontent.com/siranjeevi2001/propblemSolving-SkyGo-Drone-Delivery/main/src/case2-op.png" width="600">
+- This project assigns orders to drones and calculates the best path using the **A* pathfinding algorithm**. The results are displayed using **Matplotlib**.
+- 
+<img src="https://raw.githubusercontent.com/siranjeevi2001/problemSolving-SkyGo-Drone-Delivery/main/src/case2.png" width="600">
+<img src="https://raw.githubusercontent.com/siranjeevi2001/problemSolving-SkyGo-Drone-Delivery/main/src/case2-op.png" width="600">
 ---
 
 ## 🛠️ Installation  
@@ -57,7 +58,7 @@ drone-delivery/
 │── requirements.txt  # Required libraries
 │── README.md         # Documentation
 ```
-<img src="https://raw.githubusercontent.com/siranjeevi2001/problemSolving-SkyGo-Drone-Delivery/main/src/case1-op.png" width="600">
+<img src="https://raw.githubusercontent.com/siranjeevi2001/problemSolving-SkyGo-Drone-Delivery/main/src/case1.png" width="600">
 <img src="https://raw.githubusercontent.com/siranjeevi2001/problemSolving-SkyGo-Drone-Delivery/main/src/case1-op.png" width="600">
 ---
 
