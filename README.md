@@ -7,8 +7,8 @@ Here is a simple and easy-to-understand **README.md** file:
 ## 📌 Overview  
 - This project assigns orders to drones and calculates the best path using the **A* pathfinding algorithm**. The results are displayed using **Matplotlib**.
 - 
-<img src="https://raw.githubusercontent.com/siranjeevi2001/problemSolving-SkyGo-Drone-Delivery/main/src/case2.png" width="600">
-<img src="https://raw.githubusercontent.com/siranjeevi2001/problemSolving-SkyGo-Drone-Delivery/main/src/case2-op.png" width="600">
+<img src="https://github.com/siranjeevi2001/problemSolving-SkyGo-Drone-Delivery/blob/main/src/case2-op.png" width="600">
+<img src="https://github.com/siranjeevi2001/problemSolving-SkyGo-Drone-Delivery/blob/main/src/case2.png" width="600">
 ---
 
 ## 🛠️ Installation  
@@ -58,8 +58,8 @@ drone-delivery/
 │── requirements.txt  # Required libraries
 │── README.md         # Documentation
 ```
-<img src="https://raw.githubusercontent.com/siranjeevi2001/problemSolving-SkyGo-Drone-Delivery/main/src/case1.png" width="600">
-<img src="https://raw.githubusercontent.com/siranjeevi2001/problemSolving-SkyGo-Drone-Delivery/main/src/case1-op.png" width="600">
+<img src="https://github.com/siranjeevi2001/problemSolving-SkyGo-Drone-Delivery/blob/main/src/case1-op.png" width="600">
+<img src="https://github.com/siranjeevi2001/problemSolving-SkyGo-Drone-Delivery/blob/main/src/case1.png" width="600">
 ---
 
 ## 📢 Contributing  
@@ -68,7 +68,7 @@ Want to improve this project? Fork it and contribute!
 ---
 
 ## 📬 Contact  
-🔗 **GitHub:** [Your Profile](https://github.com/your-username)  
+🔗 **Linkedin:** [Your Profile](https://www.linkedin.com/in/siranjeevi-vemburajan-90b325235/)  
 
 ---
 
