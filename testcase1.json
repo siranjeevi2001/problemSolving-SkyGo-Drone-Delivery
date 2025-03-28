@@ -1,0 +1,69 @@
+{
+    "city": {
+      "grid_size": 20
+    },
+    "drones": {
+      "fleet": [
+        {
+          "id": "D1",
+          "max_payload": 5,
+          "max_distance": 45,
+          "speed": 2,
+          "available": true
+        },
+        {
+          "id": "D2",
+          "max_payload": 10,
+          "max_distance": 25,
+          "speed": 1.5,
+          "available": true
+        },
+        {
+          "id": "D3",
+          "max_payload": 3,
+          "max_distance": 20,
+          "speed": 2.5,
+          "available": true
+        },
+        {
+          "id": "D4",
+          "max_payload": 20,
+          "max_distance": 25,
+          "speed": 1,
+          "available": false
+        }
+      ]
+    },
+    "orders": [
+      {
+        "id": "O1",
+        "delivery_x": 5,
+        "delivery_y": 10,
+        "deadline": 15,
+        "package_weight": 2
+      },
+      {
+        "id": "O2",
+        "delivery_x": 5,
+        "delivery_y": 3,
+        "deadline": 30,
+        "package_weight": 8
+      },
+      {
+        "id": "O3",
+        "delivery_x": 12,
+        "delivery_y": 8,
+        "deadline": 25,
+        "package_weight": 4
+      },
+      {
+        "id": "O4",
+        "delivery_x": 3,
+        "delivery_y": 2,
+        "deadline": 40,
+        "package_weight": 16
+      }
+    ]
+  }
+  
+
