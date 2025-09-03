@@ -6,7 +6,10 @@ Here is a simple and easy-to-understand **README.md** file:
 
 ## 📌 Overview  
 - This project assigns orders to drones and calculates the best path using the **A* pathfinding algorithm**. The results are displayed using **Matplotlib**.
+
+- Obstracle
 - 
+<img src="https://github.com/siranjeevi2001/problemSolving-SkyGo-Drone-Delivery/blob/No_Fly_Zone/src/No_fly_Zone.png" width="600">
 <img src="https://github.com/siranjeevi2001/problemSolving-SkyGo-Drone-Delivery/blob/main/src/case2-op.png" width="600">
 <img src="https://github.com/siranjeevi2001/problemSolving-SkyGo-Drone-Delivery/blob/main/src/case2.png" width="600">
 ---
